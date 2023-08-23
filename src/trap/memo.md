@@ -41,3 +41,10 @@ Mean Squared Error for test data: 3.6383144561680143
 text_len追加
 Mean Squared Error for test data: 3.6229735525904156
 -> 3.21609
+
+umap追加
+Mean Squared Error for test data: 3.642247105183543
+削除
+
+season追加
+Mean Squared Error for test data: 3.6158496338371973
