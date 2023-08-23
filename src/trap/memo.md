@@ -29,3 +29,15 @@ userに変えてみた
 Mean Squared Error for test data: 3.6370072811235055
 
 -> 3.26536
+
+---
+
+'episodes', 'members', 'ranked', 'start_year', 'gen_', 'userscore_', 'agg_'
+-> 3.23605
+
+age追加
+Mean Squared Error for test data: 3.6383144561680143
+
+text_len追加
+Mean Squared Error for test data: 3.6229735525904156
+-> 3.21609
