@@ -52,3 +52,12 @@ Mean Squared Error for test data: 3.6158496338371973
 
 anime_id でgroupbyしたものを追加
 Mean Squared Error for test data: 3.6086669429237914
+-> 3.23026
+
+
+num_leaves 127
+-> 3.19716
+
+num_leaves 127 + num_leaves 63 + nn
+-> 3.19529
+
