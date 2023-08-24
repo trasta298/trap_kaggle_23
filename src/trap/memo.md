@@ -48,3 +48,7 @@ Mean Squared Error for test data: 3.642247105183543
 
 season追加
 Mean Squared Error for test data: 3.6158496338371973
+-> 3.20979
+
+anime_id でgroupbyしたものを追加
+Mean Squared Error for test data: 3.6086669429237914
