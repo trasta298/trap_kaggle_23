@@ -61,3 +61,7 @@ num_leaves 127
 num_leaves 127 + num_leaves 63 + nn
 -> 3.19529
 
+
+Monitored metric val_loss did not improve in the last 5 records. Best score: 3.945. Signaling Trainer to stop.
+
+Monitored metric val_loss did not improve in the last 5 records. Best score: 3.925. Signaling Trainer to stop.
